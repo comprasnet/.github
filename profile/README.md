@@ -23,7 +23,7 @@ Centralizamos todos os portais em uma única plataforma tecnológica.
 </p>
 
 <p align="center">
-  <a href="https://comprasnet.com.br/">
+  <a href="https://metaverso.com.br/">
     <img src="https://comprasnet.com.br/pro/assets/img/comprasnet/metaverso_logo.png" alt="Metaverso logo">
   </a>
 </p>
