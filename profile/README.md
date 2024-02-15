@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  A Suíte de Aplicações <b>Metaverso ® comprasnet ®</b> é o pacote de softwares para o controle de todo o processo de compra e venda, licitatório, avisos, prospecção, disputa, gestão e a pós-venda.
-Licitações e Compras Públicas com Sistemas de Robotização e Inteligência Artificial.
-Centralizamos todos os portais em uma única plataforma tecnológica.
+  A Suíte de Aplicações <b>Metaverso ® comprasnet ®</b> é a solução definitiva em software para gerenciamento integral de compras corporativas. Seja para necessidades específicas, processos especializados ou aquisições complexas, nós oferecemos ferramentas robustas para todas as etapas, desde o planejamento, seleção até o pós-venda. Incorporamos sistemas avançados de robotização e inteligência artificial, garantindo eficiência e precisão. Desenvolvido especialmente para compradores profissionais, nossa plataforma é a escolha certa para otimizar suas operações de compra institucionais e corporativas.
 </p>
 
 <p align="center">
